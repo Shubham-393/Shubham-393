@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **3rd Year IT Student** at PVGCOET, Pune with **8.7 CGPA**  
+🎓 **BE IT Student** at PVGCOET, Pune with **8.7 CGPA**  
 💻 **Full-Stack Developer** specializing in Django & Python  
 🌟 **GDSC Solution Challenge Participant 2025**  
 🏆 **Certified** in Django (Udemy) & C++ (IIT Bombay)  
@@ -25,7 +25,6 @@
 
 I'm passionate about building robust web applications and creating seamless user experiences. My expertise spans across full-stack development with a focus on innovative solutions.
 
-- 🔭 Currently building: **Complete Airline Booking System**
 - 🌱 Learning: **Advanced Django & JavaScript Frameworks**
 - 💬 Ask me about: **Django, Python, Web Development**
 - 📫 Reach me: **airline.pythonanywhere.com**
@@ -70,13 +69,6 @@ I'm passionate about building robust web applications and creating seamless user
 
 ## 🎯 Featured Projects
 
-### ✈️ [Airline Reservation System](https://airline.pythonanywhere.com)
-**Complete airline booking system with payment integration, seat selection, and admin dashboard.**
-- 🎫 Real-time seat selection & booking
-- 💳 Secure payment integration
-- 👨‍💼 Comprehensive admin dashboard
-- 📱 Responsive design for all devices
-
 ### 🏠 [RentalHub](https://github.com/Shubham-393/rentalhub)
 **Property rental platform with modern JavaScript**
 - 🏡 Property listings and management
@@ -89,7 +81,7 @@ I'm passionate about building robust web applications and creating seamless user
 - 👤 User profiles and authentication
 - 🎨 Built with Django and Bootstrap
 
-### 🌟 [DailyVibe](https://airline.pythonanywhere.com)
+### 🌟 [DailyVibe](https://shubham-393.github.io/DailyVibe/)
 **Daily affirmations with downloadable wallpapers**
 - 💫 Daily motivational quotes
 - 🖼️ Beautiful background images
@@ -106,7 +98,7 @@ I'm passionate about building robust web applications and creating seamless user
 </div>
 
 - 🎓 **Bachelor of Engineering in IT** - PVGCOET, Pune (2023-2026)
-- 📈 **CGPA: 8.7** - Consistent academic excellence
+- 📈 **CGPA: 8.9** - Consistent academic excellence
 - 🏅 **Django Certification** - Udemy
 - 🏅 **C++ Certification** - IIT Bombay
 - 🌟 **GDSC Solution Challenge Participant 2025**
@@ -141,7 +133,7 @@ I'm passionate about building robust web applications and creating seamless user
   
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://airline.pythonanywhere.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-khot-224979256)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkhot393@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khotshubham393@gmail.com)
 
 </div>
 
