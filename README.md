@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **BE IT Student** at PVGCOET, Pune with **8.7 CGPA**  
+🎓 **BE IT Student** at PVGCOET, Pune with **8.9 CGPA**  
 💻 **Full-Stack Developer** specializing in Django & Python  
 🌟 **GDSC Solution Challenge Participant 2025**  
 🏆 **Certified** in Django (Udemy) & C++ (IIT Bombay)  
